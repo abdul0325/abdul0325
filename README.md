@@ -131,10 +131,13 @@
   <a href="https://www.instagram.com/abdu.r.rehman/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://wa.me/923376824822" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=4000&color=A33CFC&center=true&vCenter=true&lines=Thanks+for+visiting+💜;Let's+connect+and+collaborate+🤝;Keep+Coding,+Keep+Building+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=4000&color=A33CFC&center=true&vCenter=true&lines=Thanks+for+visiting+💜;Let's+connect+on+WhatsApp+📱;Keep+Coding,+Keep+Building+🚀"/>
 </p>
