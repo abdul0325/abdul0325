@@ -1,65 +1,52 @@
-<h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
-<h3 align="center">💻 Full Stack Developer | MERN | Cloud Enthusiast | Problem Solver</h3>
-
----
-
-## 💫 About Me
-
-🔥 Passionate **Full Stack Developer** focused on building efficient, scalable, and user-friendly applications.  
-💡 Experienced in both **frontend & backend**, with a strong understanding of **cloud platforms** and **modern frameworks**.  
-🚀 Exploring advanced technologies like **GraphQL**, **AI/ML (TensorFlow, PyTorch)**, and **Cloud Deployments**.  
-🎯 Love learning, contributing, and creating impactful digital experiences.  
-📫 Reach me at **[habdul2266@gmail.com](mailto:habdul2266@gmail.com)**  
-
----
-
-## ⚙️ Services I Offer
-
-✅ **Full Stack Web Apps** — React, Next.js, Node.js, Express.js, and Flask  
-✅ **API Development & Integration** — REST & GraphQL APIs  
-✅ **Cloud Deployment** — AWS, Azure, Google Cloud, Vercel, Nginx, Firebase  
-✅ **Database Design** — MongoDB, MySQL, PostgreSQL, Prisma ORM  
-✅ **Machine Learning Apps** — Using TensorFlow, PyTorch, and scikit-learn  
-✅ **Automation & DevOps** — GitHub Actions, Docker, CI/CD pipelines  
-
----
-
-## 🌐 Connect With Me
+<h1 align="center">👋 Hey there, I'm Abdul Rehman</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdul-rehman-961428265/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/abdul0325" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
-  </a>
-  <a href="https://www.instagram.com/abdu.r.rehman/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram" />
-  </a>
-  <a href="https://web.facebook.com/profile.php?id=100071110743530&_rdc=1&_rdr" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="50" alt="Facebook" />
-  </a>
-  <a href="https://wa.me/923376824822" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" />
-  </a>
-  <a href="https://abdulrehman0325.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white" height="40" />
-  </a>
+  <b>Full Stack Web Developer | MERN Stack | Cloud & DevOps Enthusiast</b>
 </p>
 
 ---
 
-## 🧰 Tech Stack & Skills
+## 🧑‍💻 About Me
+
+Hi! I'm **Abdul Rehman**, a passionate **Full Stack Developer** with a strong focus on **building scalable web apps**, **real-time chat systems**, and **beautiful user interfaces**.  
+I love solving problems, learning new technologies, and turning complex ideas into smooth digital experiences.
+
+- 🌐 Portfolio: [abdulrehman0325.vercel.app](https://abdulrehman0325.vercel.app/)
+- ✉️ Email: [habdul2266@gmail.com](mailto:habdul2266@gmail.com)
+- 💬 Always open to collaborating on creative projects!
+
+---
+
+## ⚙️ My Services
+
+🚀 **Web Development (Frontend + Backend)**  
+💡 **API Design & Integration (REST / GraphQL)**  
+☁️ **Cloud Deployment (AWS, Vercel, Google Cloud)**  
+🧠 **Machine Learning Integration (TensorFlow, PyTorch)**  
+⚙️ **Database Management (MongoDB, MySQL, PostgreSQL)**  
+🎨 **UI/UX with TailwindCSS and modern frameworks**  
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,powershell,graphql,html,css,react,nextjs,nodejs,express,nestjs,flask,socketio,tailwind,bootstrap,vite,npm,yarn,vercel,aws,azure,gcp,nginx,firebase,mongodb,mysql,postgres,prisma,git,github,docker,eslint,postman,githubactions" />
+  <a href="mailto:habdul2266@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abdul-rehman-961428265/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/abdul0325"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.instagram.com/abdu.r.rehman/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://web.facebook.com/profile.php?id=100071110743530"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://wa.me/923376824822"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://abdulrehman0325.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
+
+---
+
+## 🧠 Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=matplotlib,numpy,pandas,pytorch,tensorflow,sklearn" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,nestjs,tailwind,vercel,vite,git,github,postman,npm,yarn,docker,nginx,aws,azure,gcp,firebase,mongodb,mysql,postgres,prisma,flask,graphql,py,sklearn,tensorflow,pytorch,matplotlib,numpy,pandas" />
 </p>
-
-<p align="center">✨ Combining frontend precision, backend logic, and cloud power to deliver excellence.</p>
 
 ---
 
