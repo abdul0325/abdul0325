@@ -39,6 +39,12 @@
   <a href="https://web.facebook.com/profile.php?id=100071110743530&_rdc=1&_rdr" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" height="50" alt="Facebook" />
   </a>
+  <a href="https://wa.me/923376824822" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" />
+  </a>
+  <a href="https://abdulrehman0325.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white" height="40" />
+  </a>
 </p>
 
 ---
@@ -82,16 +88,6 @@
 
 ---
 
-## 📈 Contribution Summary
-
-| Total Contributions | Longest Streak | Current Streak |
-|----------------------|----------------|----------------|
-| 🟢 **Dynamic Live Data** | 🔥 Updated Daily | ⚡ Synced with GitHub |
-
-> 🧩 *Your contribution data above updates automatically every 24 hours.*
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -122,6 +118,9 @@
   <a href="mailto:habdul2266@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://wa.me/923376824822" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/abdul-rehman-961428265/">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -131,13 +130,13 @@
   <a href="https://www.instagram.com/abdu.r.rehman/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://wa.me/923376824822" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://abdulrehman0325.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=4000&color=A33CFC&center=true&vCenter=true&lines=Thanks+for+visiting+💜;Let's+connect+on+WhatsApp+📱;Keep+Coding,+Keep+Building+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=4000&color=A33CFC&center=true&vCenter=true&lines=Thanks+for+visiting+💜;Check+out+my+Portfolio+🌐;Let's+connect+on+WhatsApp+📱;Keep+Coding,+Keep+Building+🚀"/>
 </p>
