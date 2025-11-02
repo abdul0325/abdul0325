@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Abdul Rehman</h1>
 
 <p align="center">
-  <b>Full Stack Web Developer | MERN Stack | Cloud & DevOps Enthusiast</b>
+  <b>Full Stack Web Developer | Cloud & DevOps Enthusiast</b>
 </p>
 
 ---
