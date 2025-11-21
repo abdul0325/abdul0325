@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-Hi! I am **Abdul Rehman**, a passionate **Full Stack Developer** with a strong focus on **building scalable web apps**, **real-time chat systems**, and **beautiful user interfaces**.  
+Hi! I'am **Abdul Rehman**, a passionate **Full Stack Developer** with a strong focus on **building scalable web apps**, **real-time chat systems**, and **beautiful user interfaces**.  
 I love solving problems, learning new technologies, and turning complex ideas into smooth digital experiences.
 
 - 🌐 Portfolio: [abdulrehman0325.vercel.app](https://abdulrehman0325.vercel.app/)
