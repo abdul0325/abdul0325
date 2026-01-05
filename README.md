@@ -88,15 +88,6 @@ I love solving problems, learning new technologies, and turning complex ideas in
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </p>
-
----
-
-## 📊 LeetCode (GitHub-Style Chart)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdul0325&custom_title=LeetCode%20Problem%20Solving%20Journey&bg_color=0D1117&color=00FFFF&line=A33CFC&point=FFFFFF&area=true&hide_border=true" alt="LeetCode Chart"/>
-</p>
-
 ---
 
 ## 🚀 Let's Build Something Awesome Together!
