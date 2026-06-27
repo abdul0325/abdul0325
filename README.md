@@ -18,15 +18,19 @@ I specialize in designing and developing modern software solutions using **React
 
 ### What I Work On
 
-* 🚀 Full Stack Web Applications
-* 🤖 AI & LLM Integrations
-* ⚡ Real-Time Systems (Socket.IO, WebSockets, SSE)
-* 🏗️ Scalable Backend Architectures & Microservices
-* ☁️ Cloud Infrastructure & DevOps
-* 📊 Analytics Platforms & Admin Dashboards
-* 🔒 Authentication, Authorization & Security
+* 🌐 Full Stack Web Application Development
+* ⚛️ Modern Frontend Development (React, Next.js, TypeScript)
+* 🔧 Backend Development & RESTful APIs (Node.js, NestJS, Express.js)
+* 🗄️ Database Design & Optimization (PostgreSQL, MongoDB, MySQL)
+* ⚡ Real-Time Applications (Socket.IO, WebSockets, SSE)
+* 🔒 Authentication, Authorization & Application Security
+* ☁️ Cloud Deployment, DevOps & CI/CD Automation
+* 📱 Responsive UI Development with Tailwind CSS & Modern Design Systems
+* 🚀 Performance Optimization, Scalability & SEO
+* 🏗️ SaaS Products, Admin Dashboards & Business Applications
 
-I enjoy solving complex engineering problems and transforming ideas into reliable, scalable, and maintainable software products.
+I enjoy building end-to-end web solutions from crafting intuitive user interfaces to designing scalable backend systems and deploying production-ready applications that deliver real business value.
+
 
 ---
 
@@ -223,7 +227,7 @@ Next.js • React • Tailwind CSS • Framer Motion • i18next
   <a href="https://www.linkedin.com/in/abdul-rehman-961428265/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/abdul0325"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.instagram.com/abdu.r.rehman/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://wa.me/923256023413"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://wa.me/923376824822"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://abdulrehman0325.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
