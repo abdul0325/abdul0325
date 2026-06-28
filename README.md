@@ -1,7 +1,7 @@
 # <h1 align="center">👋 Hey there, I'm Abdul Rehman</h1>
 
 <p align="center">
-  <b>Full Stack Engineer | AI-Powered Applications | Cloud & DevOps | Scalable Systems</b>
+  <b>Full Stack Engineer | AI-Powered Applications | Scalable Systems</b>
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@ I enjoy building end-to-end web solutions from crafting intuitive user interface
 
 ### Full Stack Developer @ Codes Thinker
 
-📅 Oct 2024 – May 2026
+📅 Oct 2024 – Present
 
 * Built scalable SaaS applications using Next.js, NestJS, PostgreSQL, and Docker.
 * Integrated FastAPI-based AI services and real-time SSE streaming.
@@ -86,65 +86,6 @@ I enjoy building end-to-end web solutions from crafting intuitive user interface
 * Designed scalable REST APIs and optimized database operations with Prisma ORM.
 * Automated deployment pipelines using Docker and GitHub Actions.
 * Developed responsive and SEO-friendly applications using Next.js, Tailwind CSS, and Shadcn UI.
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 Prodexa — AI-Powered Engineering Analytics Platform
-
-**Tech Stack**
-Next.js • NestJS • FastAPI • PostgreSQL • Redis • BullMQ • Socket.IO • Docker • GitHub OAuth
-
-#### Key Features
-
-* GitHub repository analytics
-* Engineering productivity insights
-* Team health prediction
-* Delivery risk forecasting
-* Contributor leaderboards
-* Real-time dashboards
-* GitHub OAuth & Webhooks
-* Incremental repository analysis
-* Commit impact scoring
-* Audit logging & project management
-
----
-
-### 🛒 E-Commerce Platform
-
-**Tech Stack**
-Next.js • React • TypeScript • Express.js • MySQL • Material UI • Docker
-
-#### Key Features
-
-* Secure Authentication & Authorization
-* Google OAuth & JWT Authentication
-* Two-Factor Authentication (2FA)
-* Product & Order Management
-* PDF & Email Automation
-* QR Code Services
-* File Upload Management
-* Admin Dashboard & Analytics
-* Responsive User Experience
-
----
-
-### ⚖️ Legal Services Platform
-
-**Tech Stack**
-Next.js • React • Tailwind CSS • Framer Motion • i18next
-
-#### Key Features
-
-* SEO-Optimized Architecture
-* Multilingual Support
-* Consultation Management
-* Attorney Profiles
-* Legal Service Modules
-* Blog Management
-* Responsive Design
-* Modern UI/UX
 
 ---
 
@@ -176,15 +117,6 @@ Next.js • React • Tailwind CSS • Framer Motion • i18next
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdul0325&show_icons=true&theme=radical&hide_border=true&border_radius=15" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul0325&layout=compact&theme=radical&hide_border=true&border_radius=15" height="170" />
-</div>
 
 ---
 
