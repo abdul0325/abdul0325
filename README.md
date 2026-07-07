@@ -1,14 +1,8 @@
-# <h1 align="center">👋 Hey there, I'm Abdul Rehman</h1>
+<h1 align="center">👋 Hey there, I'm Abdul Rehman</h1>
 
 <p align="center">
   <b>Full Stack Engineer | AI-Powered Applications | Scalable Systems</b>
 </p>
-
-<p align="center">
-  Building modern web applications, real-time systems, AI-powered platforms, and scalable backend architectures.
-</p>
-
----
 
 ## 🧑‍💻 About Me
 
@@ -29,14 +23,10 @@ I specialize in designing and developing modern software solutions using **React
 * 🚀 Performance Optimization, Scalability & SEO
 * 🏗️ SaaS Products, Admin Dashboards & Business Applications
 
-I enjoy building end-to-end web solutions from crafting intuitive user interfaces to designing scalable backend systems and deploying production-ready applications that deliver real business value.
-
-
----
 
 ## 🌐 Contact & Portfolio
 
-* 🌐 Portfolio: https://abdulrehman0325.vercel.app
+* 🌐 Portfolio: https://abdulfullstackdev.vercel.app
 * ✉️ Email: [abdulrehman.fullstackdev@gmail.com](mailto:abdulrehman.fullstackdev@gmail.com)
 * 💼 LinkedIn: https://linkedin.com/in/abdul-rehman-961428265
 * 💻 GitHub: https://github.com/abdul0325
@@ -44,7 +34,6 @@ I enjoy building end-to-end web solutions from crafting intuitive user interface
 ---
 
 ## ⚙️ My Services
-
 🚀 Full Stack Web Development
 
 ⚡ Real-Time Applications
@@ -69,23 +58,6 @@ I enjoy building end-to-end web solutions from crafting intuitive user interface
 
 🗄️ Database Design & Optimization
 (PostgreSQL, MongoDB, MySQL, Redis)
-
----
-
-## 💼 Professional Experience
-
-### Full Stack Developer @ Codes Thinker
-
-📅 Oct 2024 – Present
-
-* Built scalable SaaS applications using Next.js, NestJS, PostgreSQL, and Docker.
-* Integrated FastAPI-based AI services and real-time SSE streaming.
-* Implemented Stripe subscription billing and payment workflows.
-* Developed secure authentication systems using JWT, OAuth 2.0, and RBAC.
-* Built real-time communication systems using Socket.IO and WebSockets.
-* Designed scalable REST APIs and optimized database operations with Prisma ORM.
-* Automated deployment pipelines using Docker and GitHub Actions.
-* Developed responsive and SEO-friendly applications using Next.js, Tailwind CSS, and Shadcn UI.
 
 ---
 
