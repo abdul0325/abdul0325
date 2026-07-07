@@ -108,14 +108,6 @@ I specialize in designing and developing modern software solutions using **React
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdul0325&theme=dracula&no-frame=true&row=1&column=7" alt="Trophies"/>
-</p>
-
----
-
 ## 💬 Developer Quote
 
 <p align="center">
