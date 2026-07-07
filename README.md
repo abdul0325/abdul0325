@@ -11,9 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-Hi! I'm **Abdul Rehman**, a passionate **Full Stack Engineer** specializing in crafting high-performance, scalable web applications and intelligent AI-powered platforms.
-
-With a strong focus on modern technologies and clean architecture, I build solutions that are not just functional — they’re fast, secure, and future-ready. From pixel-perfect frontends to robust backends and cloud infrastructure, I love turning complex problems into elegant digital experiences.
+**Full Stack Engineer** specializing in crafting high-performance, scalable web applications and intelligent AI-powered platforms.
 
 ### ✨ What I Excel At
 
@@ -84,14 +82,6 @@ With a strong focus on modern technologies and clean architecture, I build solut
 
 ---
 
-## 💬 Favorite Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -105,10 +95,6 @@ With a strong focus on modern technologies and clean architecture, I build solut
 ---
 
 ## 🚀 Let's Build Something Amazing
-
-I'm currently open to **freelance opportunities**, **full-time roles**, and **exciting startup collaborations**.
-
-Whether you need a high-performance SaaS product, an AI-powered platform, or a scalable backend system — **I'm ready to bring your vision to life.**
 
 <div align="center">
   <b>Always learning • Always building • Always delivering excellence 💜</b>
